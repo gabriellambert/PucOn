@@ -37,6 +37,136 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
+=======
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/novoProjeto/core/templates/home.html.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/core/views.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/core/urls.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/templates/courses/contact_email.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/forms.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/core/mail.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/urls.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/accounts/templates/accounts.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/accounts/templates/login.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/accounts/templates/accounts/register.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/core/templates/contact.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/templates/courses/index.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/accounts/templates/accounts/edit_passwords.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/core/utils.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/accounts/templates/accounts/login.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/accounts/templates/accounts/password_reset.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/settings.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/accounts/forms.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/accounts/templates/accounts/password_reset_mail.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/accounts/urls.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/accounts/templates/accounts/password_reset_confirm.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/accounts/models.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/templates/courses/details.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/accounts/templates/accounts/edit.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/accounts/views.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/templatetags/__init__.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/templates/courses/templatetags/my_courses.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/templatetags/courses_tags.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/core/static/css/font-awesome.css" />
+        <option value="$PROJECT_DIR$/novoProjeto/core/static/css/font-awesome.min.css" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/templates/courses/undo_enrollment.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/templates/courses/show_announcement.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/templates/courses/announcements.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/admin.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/decorators.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/templates/courses/lessons.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/urls.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/templates/courses/lesson.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/views.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/templates/courses/material.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/models.py" />
+        <option value="$PROJECT_DIR$/novoProjeto/core/templates/new_home.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/core/templates/home.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/courses/templates/courses/course_dashboard.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/accounts/templates/accounts/dashboard.html" />
+        <option value="$PROJECT_DIR$/novoProjeto/core/static/css/styles.css" />
+        <option value="$PROJECT_DIR$/novoProjeto/core/templates/base.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ScUkhnIptI3ublpdVAshnNWEeu" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="novoProjeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="novoProjeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="novoProjeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="accounts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="novoProjeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="accounts" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="novoProjeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="accounts" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="accounts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="novoProjeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="novoProjeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="novoProjeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="novoProjeto" type="b2602c69:ProjectViewProjectNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="novoProjeto" type="462c0819:PsiDirectoryNode" />
+              <item name="core" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+>>>>>>> 1556cc611e0b39c5283ff553a1a1d43cb69efb56
   </component>
   <component name="ProjectId" id="1TefgUWB78tzzwayIKXdf3au1Lb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
